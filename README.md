@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 
@@ -143,7 +142,7 @@ img{
 }
 li{
   text-align: top-left;
-  color: floralwhite;
+  color: red;
   font-size: 30px;
 }
  
