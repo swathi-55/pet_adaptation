@@ -251,12 +251,7 @@ Username or email already exist
 </div>
 
             
-        </div>
-    </div>
-</div>
-
-</div>
-</footer>
+        
 <h1 style="color: aliceblue;" >BENIFITS OF ADOPTING A PET</h1>
 <pre >
   <li >You Are Saving a Life</li>
